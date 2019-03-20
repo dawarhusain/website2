@@ -1,4 +1,9 @@
-These are some interesting new highlights for the website:
+
+# Website 2
+
+## Features
+
+Following exciting features have been added:
 
 1. New look
 2. New features
