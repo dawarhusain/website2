@@ -77,14 +77,15 @@ h6 {
 
 header {
 	background: white;
-	padding: 2rem;
+	padding: 1rem;
+	text-align: center;
+	border-bottom: 0.5rem solid black;
 }
 
 header h1 {
-	margin: 0;
-	text-align: center;
 	font-family: Georgia, 'Times New Roman', Times, serif;
-	
+	margin: 0;
+	padding: 1rem;
 }
 
 #main {
@@ -96,8 +97,7 @@ header h1 {
 
 #main .col{
 	background: white;
-	border: 1px solid black;
-	padding: 0 0.5rem;
+	padding: 0 1rem;
 }
 
 #main .col:nth-of-type(1), 
