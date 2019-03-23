@@ -15,10 +15,16 @@ body {
 
 * {
 	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
 }
 
 a {
 	text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	padding: 0.5em 0;
 }
 
 h1 {
@@ -43,6 +49,15 @@ h5 {
 
 h6 {
 	font-size: 1rem;
+}
+
+p {
+	padding: 0.5rem 0;
+}
+
+img {
+	width: 100%;
+	padding: 0.5rem 0;
 }
 
 #navbar ul {
@@ -82,17 +97,18 @@ header {
 	border-bottom: 0.5rem solid black;
 }
 
-header h1 {
-	font-family: Georgia, 'Times New Roman', Times, serif;
-	margin: 0;
-	padding: 1rem;
+header img {
+	height: 100px;
+	width: auto;
+	display: block;
+	margin: 0 auto;
 }
 
 #main {
 	display: flex;
 	justify-content: space-evenly;
-	background: peachpuff;
-	min-height: 100vh;
+	min-height: 80vh;
+	padding: 1rem 0;
 }
 
 #main .col{
