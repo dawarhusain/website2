@@ -3,9 +3,5 @@
 
 ## Features
 
-Following exciting features have been added:
-
-1. New look
-2. New features
-3. New theme
+Simple HTML CSS based static webpage. Link: [website2](www.dawarhusain.github.io/website2)
 
