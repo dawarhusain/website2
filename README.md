@@ -3,5 +3,5 @@
 
 ## Features
 
-Simple HTML CSS based static webpage. Link: [website2](www.dawarhusain.github.io/website2)
+Simple HTML CSS based static webpage. Link: [website2](https://dawarhusain.github.io/website2/)
 
